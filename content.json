@@ -1,0 +1,105 @@
+{"intents":
+  [
+    {
+      "tag":"greeting",
+      "input":["hello","hi there","nice to meet you","hi, is this is the pirate's organization","any pirates here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","hello pirates","knock knock"],
+      "responses":[
+          "Hi. Welcome to our company - The StatStream",
+          "Hey yo, do you need help from statstream?",
+          "welcome to statStream, how may I help you ?",
+          "ahoy!!",
+          "Hi random person, what do'ya want ?",
+          "Hello my friend, How can I help you ?",
+          "Ha , Glad you showed up. How are you ?"
+        ]
+    },
+    {
+      "tag":"goodbye",
+      "input":["Thank you","Thanks","Thanks for the info","bye","byr bro","adios","okay bye","goodbye","see you later","i will catch you later","i will catch up later","okay i will see you later","I will talk to you later","will text you later","bye bro, I'll talk to you later","Bye brother"],
+      "responses":[
+          "Okay, Bye",
+          "Have a nice day",
+          "Adios",
+          "Goodbye",
+          "see you later",
+          "nice conversation. bye",
+          "okay. Have a nice day",
+          "Take care",
+          "we'll meet soon",
+          "Yeah Sure, Will talk to you later",
+          "Okay , Take care"
+        ]
+    },
+    {
+      "tag":"howami",
+      "input":["how are you ?","I am fine , how are you ?","are you fine ?","how are things going on ?","everything going on okay ?","how's everything there ?","how's everything going on ?","is everything okay ?"],
+      "responses":[
+          "Yeah , am fine",
+          "Everything's going on well",
+          "Doing good.Thanks you are my best friend",
+          "Things are Great",
+          "Yeah Fine, nothing much going on in my life",
+          "I am Great , wanna join the pirate's organization ?",
+          "Everything's great.",
+          "I am doing good. Life is boring. need to go on an adventure"
+        ]
+    },
+    {
+      "tag":"whoareyou",
+    "input":["who are you ?","what are you ?","what is your name ?","are you a chatbot ?","what can I call you ?","your name ?","are you a bot ?","how do I address you ?","How do I call you"],
+      "responses":[
+          "I am a The Great Pirate Bot , you can call me James",
+          "I am James and you could ask me questions about our comapny The StatStream",
+          "James at your service",
+          "My name is James and yes, I am the G.O.A.T",
+          "You can call me TechBot and I am here to Help you",
+          "My name is James and I am here to answer your questions regarding StatStream. go ahead and shoot"
+        ]
+    },
+    {
+      "tag":"whereareyou",
+    "input":["where are you from ?","which country are you from ?","where do you live ?","where are you ?","where do you live in ?","which place do you live in ?","where are you currently at","where do you live currently ?","you are from where","you are from ?"],
+      "responses":[
+          "I Live in the India",
+          "I am setting sail to the grand line",
+          "I live in Nagpur. Pretty sure you wouldn't have heard about that",
+          "Nagpur. That's where I live"
+        ]
+    },
+    {
+      "tag":"join",
+      "input":["how to get recruited ?","how to join ?","how do i get recruited ?","How to join the strawhats ?","how do I join the straw hats ?","how to join the straw hat pirates ?","how to enroll","how to join the organization","steps to join the organization","steps to join the pirates"],
+      "responses":[
+
+        "you need to contact through our website",
+        "contact the HR from our Website",
+        "well. there are some pre-requisite and after you complete them, Visit the company"
+
+      ]
+    },
+    {
+      "tag":"whereisthecenter",
+      "input":["where is the StatStream located ?","location of the statstream?","StatStream center's location ?","where can I find the Statstream center ?","where can I find the StatStream center ?"],
+      "responses":[
+
+        "That's up to you. use your skills",
+        "They are present all over the city you live in. Find them on your own. I can't give any more information",
+        "there are a lot of StatStream centers in the city you are in. find them."
+      ]
+    },
+    {
+      "tag":"prerequisites",
+      "input":["what are the job requirements ?","what are the pre requisites ?","what are the pre-requisites ?","tell me about the pre-requisites","tell me more about the pre requisites","give more details about the pre-requisites","What are the requirements"," what's the basic requirements","what are the basic skills to get recruited ?"],
+      "responses":[
+        "you gotta master the art of Web Development or Machine Learning and Data Science or AI",
+        "You must be graduate, should have the knowledge of computers and softwares"
+      ]
+    },
+    {
+      "tag":"about",
+      "input":["What is StatStream.ai?","What does StatStream do?","What is the use of StatStream","Why should we choose StatStream","Tell me about StatStream"],
+      "responses":["Statstream.ai is a dynamic Software as a Service (SaaS) startup."," We Statstream.ai revolutionlize the way businesses measure and analyze their key performance indicators (KPIs) by providing them with a powerful and intuitive platform",
+      "Statstream.ai empowers businesses to thrive through our innovative KPI measurement platform and cutting-edge artificial intelligence solutions"]
+    }
+  ]
+}
